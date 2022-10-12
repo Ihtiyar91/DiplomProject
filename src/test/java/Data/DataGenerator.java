@@ -59,9 +59,7 @@ public class DataGenerator {
         return "00";
     }
 
-    public static String getIncorrectYearWithOneDigit() {
-        return "0";
-    }
+
 
     public static String getEmptyYearField() {
         return "";

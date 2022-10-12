@@ -1,4 +1,4 @@
-package Tests;
+package test;
 
 import Data.DataHelper;
 import Data.SqlHelper;
