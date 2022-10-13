@@ -50,7 +50,7 @@ public class DebitCardTests {
         val payPage = startPage.getDebitCardPay();
         val info = DataHelper.getValidDeclinedCardData();
         payPage.fillPayFormat(info);
-        payPage.checkSuccessNotification();
+        payPage.checkErrorNotification();
         val payStatus = SqlHelper.getStatusPayEntity();
         assertEquals("DECLINED", payStatus);
     }
