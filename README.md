@@ -15,7 +15,7 @@
 
 ## ***Документация***
 - [План  тестирования](https://github.com/Ihtiyar91/DiplomProject/blob/f23e12621ea69a718f65f66185e18453c9cdeead/Plan.md)
-- [Отчет по итогам тестирования]()
+- [Отчет по итогам тестирования](https://github.com/Ihtiyar91/DiplomProject/blob/aef6ad9c52ca006c8e86eff7b759f07ddb20f551/Report.md)
 - [Отчет по итогам автоматизации]()
 
 ## ***Перед началом работы***
