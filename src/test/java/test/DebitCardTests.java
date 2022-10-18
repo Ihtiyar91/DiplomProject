@@ -1,8 +1,8 @@
 package test;
 
-import Data.DataHelper;
-import Data.SqlHelper;
-import Page.StartPage;
+import data.DataHelper;
+import data.SqlHelper;
+import page.StartPage;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import lombok.val;
